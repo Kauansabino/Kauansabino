@@ -51,7 +51,7 @@ Projeto web desenvolvido para uma personal trainer, com foco em uma experiência
 * ✅ Controle de exercícios concluídos
 * 🔄 Estrutura preparada para futura integração com back-end e banco de dados
 
-> Projeto desenvolvido para colocar em prática conceitos de desenvolvimento web, JavaScript e manipulação do DOM.
+> Projeto desenvolvido com apoio da IA para colocar em prática conceitos de desenvolvimento web, JavaScript e manipulação do DOM.
 
 ---
 
